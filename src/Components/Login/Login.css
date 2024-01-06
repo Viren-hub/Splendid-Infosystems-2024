@@ -1,0 +1,21 @@
+.login-box{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    background-image: linear-gradient(
+  45deg,
+  hsl(240deg 91% 63%) 0%,
+  hsl(245deg 92% 67%) 11%,
+  hsl(248deg 93% 71%) 22%,
+  hsl(251deg 95% 75%) 33%,
+  hsl(252deg 96% 80%) 44%,
+  hsl(254deg 97% 84%) 56%,
+  hsl(255deg 98% 88%) 67%,
+  hsl(256deg 99% 92%) 78%,
+  hsl(257deg 100% 96%) 89%,
+  hsl(0deg 0% 100%) 100%
+);
+}

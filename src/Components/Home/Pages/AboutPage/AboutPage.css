@@ -1,0 +1,47 @@
+.aboutPage{
+    /* min-height: 60vh; */
+    width: 100%;
+    margin: 20px 0px;
+}
+.aboutPara{
+    width: 90%;
+    min-height: 30vh;
+    margin: auto;
+}
+.aboutPara img{
+    width: 100%;
+}
+.about-values{
+    width: 90%;
+    min-height: 30vh;
+    margin: auto;
+    padding: 10px 0px;
+}
+.values{
+    width: 90%;
+    min-height: 20vh;
+    border: 1px solid #1fd308;
+    margin: 30px  auto 10px auto;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+
+}
+.values img{
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top: -20px;
+    left: 30%;
+}
+.values h5{
+    margin: 0px;
+    text-align: center;
+}
+.values p{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px 0px ;
+    padding: 0px 10px;
+    font-family: emoji;
+}
